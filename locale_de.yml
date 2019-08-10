@@ -1,4 +1,6 @@
-Name: 'English'
+Name: 'German'
+
+#NEEDS TO BE TRANSLATED. PLEASE REMOVE THIS LINE ONCE DONE.
 
 #MAIN GUI
 GUI_COLOR_TITLE: 'Chat Color'
