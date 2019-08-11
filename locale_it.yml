@@ -26,7 +26,7 @@ GUI_HAS_ACCESS_CUSTOM: '&aClicca per aggiungere!'
 GUI_CUSTOM_COLOR_LORE: 'Clicca per rimuovere questo colore da quelli personalizzati!'
 GUI_CUSTOM_COLOR_EXAMPLE: 'Questa è una anteprima di come verra'' mostrato il colore personalizzato in chat.'
 RESET_CUSTOM_COLORS_LIST: '&7Clicca per resettare il colore personalizzato.'
-GUI_FINISH_CUSTOM_COLOR: '&7Creato con successo il tuo Colore Personalizzato! Scrivi in chat per vederlo!'
+GUI_FINISH_CUSTOM_COLOR: '%prefix% &7Creato con successo il tuo Colore Personalizzato! Scrivi in chat per vederlo!'
 
 
 #COLORS
