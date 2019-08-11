@@ -26,7 +26,7 @@ GUI_HAS_ACCESS_CUSTOM: '&aKlicke zum Hinzufügen!'
 GUI_CUSTOM_COLOR_LORE: 'Klicke um diese Farbe von den eigenen Farben zu entfernen!'
 GUI_CUSTOM_COLOR_EXAMPLE: 'So wird die eigene Farbe im Chat aussehen.'
 RESET_CUSTOM_COLORS_LIST: '&7Klicke um die eigene Farbe zurück zu setzen.'
-GUI_FINISH_CUSTOM_COLOR: '&7Eigene Chatfarbe erfolgreich erstellt! Schreibe in den Chat um sie zu sehen!'
+GUI_FINISH_CUSTOM_COLOR: '%prefix% &7Eigene Chatfarbe erfolgreich erstellt! Schreibe in den Chat um sie zu sehen!'
 
 
 #COLORS
