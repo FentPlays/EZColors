@@ -11,7 +11,7 @@ GUI_SET_COLOR_DEFAULT_NO_ACCESS: '&cYou don''t have access to Set back to Defaul
 GUI_HAS_ACCESS: '&aClick to Use!'
 GUI_NO_ACCESS: '&cYou don''t have access to this Color!'
 GUI_SELECTED_COLOR_TITLE: '&e&lSelected Color'
-GUI_SELECTED_COLOR_LORE: '&7Your selected color is:||{SelectedColor}'
+GUI_SELECTED_COLOR_LORE: '&7Your selected color is:||||{SelectedColor}'
 
 #CUSTOM COLOR GUI
 GUI_COLOR_CUSTOM_TITLE: 'Chat Color Creator'
