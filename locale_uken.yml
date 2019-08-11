@@ -9,7 +9,7 @@ GUI_SET_COLOR_DEFAULT_NO_ACCESS: '&cYou don't have access to Set back to Default
 GUI_HAS_ACCESS: '&aClick to Use!'
 GUI_NO_ACCESS: '&cYou don't have access to this Colour!'
 GUI_SELECTED_COLOR_TITLE: '&e&lSelected Colour'
-GUI_SELECTED_COLOR_LORE: '&7Your selected colour is:||{SelectedColor}'
+GUI_SELECTED_COLOR_LORE: '&7Your selected colour is:||||{SelectedColor}'
 
 #CUSTOM COLOR GUI
 GUI_COLOR_CUSTOM_TITLE: 'Chat Colour Creator'
@@ -26,7 +26,7 @@ GUI_HAS_ACCESS_CUSTOM: '&aClick to Add!'
 GUI_CUSTOM_COLOR_LORE: 'Click to remove this colour from the custom colour!'
 GUI_CUSTOM_COLOR_EXAMPLE: 'This is how the custom colour will look in chat.'
 RESET_CUSTOM_COLORS_LIST: '&7Click to reset the custom colour.'
-GUI_FINISH_CUSTOM_COLOR: '&7Successfully created your Custom Chat Colour! Type in chat to see it!'
+GUI_FINISH_CUSTOM_COLOR: '%prefix% &7Successfully created your Custom Chat Colour! Type in chat to see it!'
 
 
 #COLORS
