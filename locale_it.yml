@@ -9,7 +9,7 @@ GUI_SET_COLOR_DEFAULT_NO_ACCESS: '&cNon hai i permessi per impostare il colore d
 GUI_HAS_ACCESS: '&aClicca per Utilizzare!'
 GUI_NO_ACCESS: '&cNon hai accesso a questo colore!'
 GUI_SELECTED_COLOR_TITLE: '&e&lColore Selezionato'
-GUI_SELECTED_COLOR_LORE: '&7Il Colore selezionato è:||{SelectedColor}'
+GUI_SELECTED_COLOR_LORE: '&7Il Colore selezionato è:||||{SelectedColor}'
 
 #CUSTOM COLOR GUI
 GUI_COLOR_CUSTOM_TITLE: 'Creatore di Colori'
