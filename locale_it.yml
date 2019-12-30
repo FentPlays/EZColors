@@ -55,6 +55,7 @@ COLOR_RESET_NO_PERM: '%prefix% &cNon puoi resettare il tuo colore.'
 COLOR_RAINBOW_SELECT_LEFT: '&7Click Sinistro per impostare il tuo colore della Chat su Arcobaleno!'
 COLOR_RAINBOW_SELECT_RIGHT: '&7Click Sinistro per impostare il tuo colore della Chat su Arcobaleno 2!'
 
+NO_COLOR_SET: '&cNessun set di colori'
 COLOR_SELECTED: '%prefix% &7Selezionato con successo il Colore {Color}!'
 COLOR_SELECTED_DEFAULT_SUCCESSFUL: '%prefix% &7Ripristinato il Colore della chat allo stato iniziale.'
 COLOR_SELECTED_DEFAULT_NO_COLOR: '%prefix% &cNon hai selezionato un colore.'
