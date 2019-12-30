@@ -55,6 +55,7 @@ COLOR_RESET_NO_PERM: '%prefix% &cTu no puedes restablecer tu color.'
 COLOR_RAINBOW_SELECT_LEFT: '&7Clic izquierdo para establecer tu color de chat a arco iris!'
 COLOR_RAINBOW_SELECT_RIGHT: '&7Clic derecho para establecer tu color de chat a arco iris 2!'
 
+NO_COLOR_SET: '&cSin conjunto de colores'
 COLOR_SELECTED: '%prefix% Se selecto el {Color} &7Color!'
 COLOR_SELECTED_DEFAULT_SUCCESSFUL: '%prefix% Se a establecido tu color a predeterminado.'
 COLOR_SELECTED_DEFAULT_NO_COLOR: '%prefix% &cUsted no tiene un color de chat selectado.'
