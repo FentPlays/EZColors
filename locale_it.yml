@@ -61,9 +61,9 @@ COLOR_SELECTED_DEFAULT_SUCCESSFUL: '%prefix% &7Ripristinato il Colore della chat
 COLOR_SELECTED_DEFAULT_NO_COLOR: '%prefix% &cNon hai selezionato un colore.'
 
 #LANGUAGE GUI
-GUI_LANGUAGE_TITLE: 'Linguaggi'
-GUI_LANGUAGE_LANGUAGE_ENABLED_DESC: 'Questo linguaggio è già stato selezionato.'
-GUI_LANGUAGE_LANGUAGE_DISABLED_DESC: 'Clicca per selezionare il linguaggio {Language} per il plugin.'
-GUI_LANGUAGE_LANGUAGE_REFRESH_TITLE: 'Ricarica Linguaggi'
-GUI_LANGUAGE_LANGUAGE_REFRESH_DESC: 'Clicca per ricaricare tutti i linguaggi.||Questo controllerà se ci sono nuovi linguaggi.'
-GUI_LANGUAGE_LANGUAGE_REFRESH_MSG: '%prefix% &aRicaricati tutti i linguaggi.'
+GUI_LANGUAGE_TITLE: 'Lingue'
+GUI_LANGUAGE_LANGUAGE_ENABLED_DESC: 'Questa lingua è già stata selezionata.'
+GUI_LANGUAGE_LANGUAGE_DISABLED_DESC: 'Clicca per selezionare la lingua {Language} per il plugin.'
+GUI_LANGUAGE_LANGUAGE_REFRESH_TITLE: 'Ricarica Lingue'
+GUI_LANGUAGE_LANGUAGE_REFRESH_DESC: 'Clicca per ricaricare tutte le lingue.||Questo controllerà se ci sono nuove lingue.'
+GUI_LANGUAGE_LANGUAGE_REFRESH_MSG: '%prefix% &aRicaricate tutte le lingue.'
